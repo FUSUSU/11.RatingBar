@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"11. RatingBar "</string>
+    <string name="button1">RatingBar</string>
+    <string name="item_setting">Setting</string>
+</resources>
